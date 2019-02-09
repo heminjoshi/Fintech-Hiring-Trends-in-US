@@ -1,1 +1,0 @@
-# Fintech-Hiring-Trends-in-US
