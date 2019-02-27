@@ -4,4 +4,6 @@ code/.DS_Store
 data/.DS_Store
 */deliverables/.DS_Store
 */userlogs
-*/.DS_Store
+._.DS_Store
+**/.DS_Store
+**/._.DS_Store
